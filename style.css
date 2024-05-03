@@ -17,8 +17,7 @@ body {
 
 .calculator {
     background-color: #fff;
-    height: 82%;
-    min-width: 28%;
+    padding-bottom: 1.2rem;
 }
 
 .interface {
@@ -26,8 +25,8 @@ body {
     background-color: rgb(93, 99, 99);
     display: flex;
     justify-content: center;
-    height: 80vh;
     border-radius: 46px;
+    padding: 0 2.2rem 3rem;
 }
 
 #display {
